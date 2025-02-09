@@ -1,6 +1,6 @@
 # Alienzone Subgraph
 
-![Alienzone Banner](https://opensea.io/collection/alienzone888/banner-image)
+![Alienzone Banner](https://i.seadn.io/s/raw/files/ba9698b8d1ba625ba4cafcc4547b3a0d.jpg?auto=format&dpr=1&w=3840)
 
 ## Overview
 
